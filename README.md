@@ -3,8 +3,8 @@
 	 	 	 	
 
 
-##PHASE - I
-##REQUIREMENTS DOCUMENT : MINIWORLD 
+##	PHASE - I
+##	REQUIREMENTS DOCUMENT : MINIWORLD 
 
 Database management systems are created to replace the time consuming, inefficient and disorganised paper-work and completely manage everything by computer systems. This enables us to perform all the operations much faster and efficient than manual work. Banking Systems are an epitome of importance of a database management system. Banks handle huge amounts of data. An organised database system is necessary to store that data, operate on it, fetch it when needed. Moreover, this needs to be done as fast as possible.
 
@@ -37,7 +37,7 @@ For closing of an account, owner can contact bank employees, complete the formal
 
 
 
-#Constraints:
+#	Constraints:
 
 Every customer of the bank must have a unique account number ID.
 Any account number is not nullable i.e., any account cannot take null values.
@@ -60,7 +60,7 @@ Offers and schemes depends on the policies of the bank.
 
 
 
-#APPLICATION 	REQUIREMENTS 	:
+#	APPLICATION 	REQUIREMENTS 	:
 
 There must be provision for:
 
