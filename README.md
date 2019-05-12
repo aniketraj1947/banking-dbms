@@ -39,19 +39,19 @@ For closing of an account, owner can contact bank employees, complete the formal
 
 #	Constraints:
 
-Every customer of the bank must have a unique account number ID.
-Any account number is not nullable i.e., any account cannot take null values.
-The customers must have a minimum account balance, say of about Rs.1000
-Any customer will not allowed to withdraw the amount from his account, if the withdrawal results in his account balance going below the minimum balance, i.e. it will lead to bouncing.
-A person is eligible to get a loan from the bank if and only if he has an account in the bank.
-The amount of loan is restricted by the income statement of the customer.
-The percentage of interest imposed on the loan depends on the Bank’s policies and thus varies from bank to bank.
-The customers are issued cards (ATM or Debit) depending on their eligibilities.
-All the card holders have a unique card and therefore unique PIN numbers.
-The employees of the bank have Unique identification numbers too.
-There is a limit to transaction from a different bank’s ATM in a month, say Rs. 20,000.
-The bank must have a daily limit based on the cash it holds on a particular day.
- Every account must be validated by a unique mobile number.
+*	Every customer of the bank must have a unique account number ID.
+*	Any account number is not nullable i.e., any account cannot take null values.
+*	The customers must have a minimum account balance, say of about Rs.1000
+*	Any customer will not allowed to withdraw the amount from his account, if the withdrawal results in his account balance going below the minimum balance, i.e. it will lead to bouncing.
+*	A person is eligible to get a loan from the bank if and only if he has an account in the bank.
+*	The amount of loan is restricted by the income statement of the customer.
+*	The percentage of interest imposed on the loan depends on the Bank’s policies and thus varies from bank to bank.
+*	The customers are issued cards (ATM or Debit) depending on their eligibilities.
+*	All the card holders have a unique card and therefore unique PIN numbers.
+*	The employees of the bank have Unique identification numbers too.
+*	There is a limit to transaction from a different bank’s ATM in a month, say Rs. 20,000.
+*	The bank must have a daily limit based on the cash it holds on a particular day.
+*	Every account must be validated by a unique mobile number.
 Offers and schemes depends on the policies of the bank.
 
 
@@ -64,22 +64,22 @@ Offers and schemes depends on the policies of the bank.
 
 There must be provision for:
 
-Addition of new accounts in the bank.
-Addition of new employees in the bank.
-Add mobile number for unique identification.
-Check eligibility for credit/debit card.
-Check eligibility for Loan application.
-Check bouncing of withdrawal requests.
-Check daily limit.
-Check minimum balance.
-Issue credit/debit card.
-Setting and updating of PIN.
-Withdrawing money and updating balance accordingly.
-Depositing money and updating balance accordingly.
-Updating of passbook.
-Updating the personal details of account owners.
-Updating personal details of bank employees.
-Update the total cash available with bank.
-Update loan status.
-Deletion of account.
+*	Addition of new accounts in the bank.
+*	Addition of new employees in the bank.
+*	Add mobile number for unique identification.
+*	Check eligibility for credit/debit card.
+*	Check eligibility for Loan application.
+*	Check bouncing of withdrawal requests.
+*	Check daily limit.
+*	Check minimum balance.
+*	Issue credit/debit card.
+*	Setting and updating of PIN.
+*	Withdrawing money and updating balance accordingly.
+*	Depositing money and updating balance accordingly.
+*	Updating of passbook.
+*	Updating the personal details of account owners.
+*	Updating personal details of bank employees.
+*	Update the total cash available with bank.
+*	Update loan status.
+*	Deletion of account.
 
