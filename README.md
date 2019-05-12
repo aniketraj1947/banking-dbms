@@ -36,7 +36,7 @@ For closing of an account, owner can contact bank employees, complete the formal
 
 
 
-#	Constraints:
+##	Constraints:
 
 *	Every customer of the bank must have a unique account number ID.
 *	Any account number is not nullable i.e., any account cannot take null values.
@@ -59,7 +59,7 @@ Offers and schemes depends on the policies of the bank.
 
 
 
-#	APPLICATION 	REQUIREMENTS 	:
+##	Application Requirements:
 
 There must be provision for:
 
