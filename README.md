@@ -3,8 +3,7 @@
 	 	 	 	
 
 
-##	PHASE - I
-##	REQUIREMENTS DOCUMENT : MINIWORLD 
+## Miniworld
 
 Database management systems are created to replace the time consuming, inefficient and disorganised paper-work and completely manage everything by computer systems. This enables us to perform all the operations much faster and efficient than manual work. Banking Systems are an epitome of importance of a database management system. Banks handle huge amounts of data. An organised database system is necessary to store that data, operate on it, fetch it when needed. Moreover, this needs to be done as fast as possible.
 
@@ -16,7 +15,7 @@ This centralised database of bank systems will be available to any authorised an
 The database system would store accounts of all the customers of the branch, employees. It’d contain all required fields like UID, eligibility criterial, loan requirements, daily withdrawal limit, debit/credit cards, minimum balance, personal details and functionalities to update them.
 
 
-DATABASE 	REQUIREMENTS 	:
+##	DATABASE REQUIREMENTS
 
 When a person wants to open an account, he/she has to open an account in the Bank. The account no. will be unique for each person. At the time of opening an account, they will have to raise the available balance to the minimum account balance. The applicant must also provide all the details required in the application form. The Bank stores all the details of the applicants. Mobile no. must be provided for unique identification. After the account creation, client will be given a passbook which will contain the whole transaction history of the account.
 
